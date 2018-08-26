@@ -1,3 +1,9 @@
+# Unity generated
+Builds/
+Temp/
+Library/
+obj/
+
 # Windows thumbnail cache files
 Thumbs.db
 ehthumbs.db
